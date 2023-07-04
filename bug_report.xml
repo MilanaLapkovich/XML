@@ -1,7 +1,7 @@
 <namebody>
  <bug_report>"Bug_report"</bug_report>":
  <ID>"B001"</ID>
-  <Summary>"Profile module: button 'Share stories in Instagram' is disable when clicking on it"</Summary>
+  <Summary>"Profile module: button 'Share stories in Instagram' is disabled when clicking on it"</Summary>
   <Description>"Tango mobile app. Android 8.0.0"</Description>
   <Requirement_ID>"R05"</Requirement_ID>
   <Actual_result>"Button 'Instagram History' does not react to pressing, nothing is opened"</Actual_result>
@@ -14,5 +14,5 @@
 	<Severity>"major"</Severity>
 	<Priority>"Low"</Priority>
 	<Attachments>"_"</Attachments>
-	<Reproducible>"_"</Reproducible>
+	<Reproducible>"Always"</Reproducible>
 	</namebody>
